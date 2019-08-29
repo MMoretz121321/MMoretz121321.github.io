@@ -1,0 +1,51 @@
+body {
+	background-color: #e6f2ff;
+}
+header, footer, #content {
+	border-style: solid;
+	border-width: 1px;
+	border-color; green;
+}
+header {
+	background-color: #ffffcc;
+	background-image: url(michael75.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	height: 162px;
+	padding: 5px;
+	padding-left: 20px;
+}
+h1 {
+	color: #e6eeff;
+	font-size: 300%;
+	font-family: Cambria,Courier;
+}
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	box-shadow: 5px 5px 5px black;
+}
+#content {
+	background-color: #ffd6cc;
+	padding: 15px;
+	min-height: 300px;
+}
+h2{
+	color: black;
+	font-family: Cambria,Courier;
+}
+.floatImg {
+	float: left;
+	margin: 0px 10px;
+}		
+footer {
+	background-color: #ccffcc;
+	color: navy;
+	text-align: center;
+	font-size: 90%;
+}
+ul {
+	list-style-position: inside;
+	font-size: 50%;	
+}
